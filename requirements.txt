@@ -1,0 +1,4 @@
+yt-dlp                     # YouTube動画のダウンロード用
+openai-whisper             # 音声ファイルの文字起こし用
+googletrans==4.0.0-rc1     # 翻訳用（Google Translate API の非公式ラッパー）
+torch                      # Whisper モデルの実行に必要なPyTorch
